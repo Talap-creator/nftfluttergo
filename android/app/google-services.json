@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "197288978331",
+    "project_id": "grounded-pilot-347719",
+    "storage_bucket": "grounded-pilot-347719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197288978331:android:b0a2aec7a4c48bfa97e33e",
+        "android_client_info": {
+          "package_name": "Kaleo.Chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197288978331-v3sjeuu82s8jo14mj7n4ipnduvl7c06p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEajLnHppR0NkamvEPhEmJ_n4iui7f94A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197288978331-v3sjeuu82s8jo14mj7n4ipnduvl7c06p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197288978331-6slfcaahk7l52tohta4bg9393jndbidf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kaleo.Chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
